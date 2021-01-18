@@ -34,7 +34,7 @@ platform = new Ground(350,300,170,170);
     log5 = new Log(870,120,150, -PI/7);
 
     bird = new Bird(100,100);
-
+platform = new Ground(300,350,180,20);
 }
 
 function draw(){
